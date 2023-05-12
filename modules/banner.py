@@ -1,6 +1,6 @@
 """
 Script : PhoneSploit Pro
-Author : Mohd Azeem (github.com/AzeemIdrisi)
+Author : Maazin King (github.com/MznStudiosOfc)
 """
 
 from modules import color
@@ -75,7 +75,7 @@ banner2 = f'''
         ░█─── ▀──▀ ▀▀▀▀ ▀──▀ ▀▀▀ ░█▄▄▄█ █▀▀▀ ▀▀▀ ▀▀▀▀ ▀▀▀ ──▀── 　 ░█─── ▀─▀▀ ▀▀▀▀
 
 
-            {color.RED}{version}{color.WHITE}            {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}            {color.WHITE}By github.com/MznStudiosOfc
 '''
 
 banner3 = f'''
@@ -84,7 +84,7 @@ banner3 = f'''
         █▀▀ █▀█ █▄█ █░▀█ ██▄ ▄█ █▀▀ █▄▄ █▄█ █ ░█░   █▀▀ █▀▄ █▄█ 
 
 
-            {color.RED}{version}{color.WHITE}             {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}             {color.WHITE}By github.com/MznStudiosOfc
 '''
 
 banner4 = f'''
@@ -96,7 +96,7 @@ banner4 = f'''
                   \/            \/     \/        \/|__|                                                      
 
 
-        {color.RED}{version}{color.WHITE}                             {color.WHITE}By github.com/AzeemIdrisi
+        {color.RED}{version}{color.WHITE}                             {color.WHITE}By github.com/MznStudiosOfc
 '''
 banner5 = f'''
        ___  __                 ____     __     _ __     ___         
@@ -105,7 +105,7 @@ banner5 = f'''
     /_/  /_//_/\___/_//_/\__/___/ .__/_/\___/_/\__/  /_/  /_/  \___/
                                /_/                                                                                                      
 
-        {color.RED}{version}{color.WHITE}        {color.WHITE}By github.com/AzeemIdrisi
+        {color.RED}{version}{color.WHITE}        {color.WHITE}By github.com/MznStudiosOfc
 '''
 
 banner6 = f'''
@@ -131,7 +131,7 @@ banner10 = f'''
                                                          \ \_\                                                       
                                                           \/_/                                              
 
-            {color.RED}{version}{color.WHITE}                                {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}                                {color.WHITE}By github.com/MznStudiosOfc
 
 '''
 
@@ -144,7 +144,7 @@ banner11 = f'''
                                             /_/                                                      
 
 
-            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/MznStudiosOfc
 
 '''
 
@@ -155,7 +155,7 @@ banner12 = f'''
         ▒█░░░ ▀░░▀ ▀▀▀▀ ▀░░▀ ▀▀▀ ▒█▄▄▄█ █▀▀▀ ▀▀▀ ▀▀▀▀ ▀▀▀ ░░▀░░ 　 ▒█░░░ ▀░▀▀ ▀▀▀▀   
 
 
-            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/MznStudiosOfc
 
 '''
 banner_list = [banner2, banner3, banner4, banner5,
