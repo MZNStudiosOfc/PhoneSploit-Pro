@@ -97,11 +97,11 @@ __PhoneSploit Pro__ does not need any installation and runs directly using `pyth
 
 #### On Linux / macOS :
 
-Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requirements) software are installed.
+Make sure all the [required](https://github.com/MznStudiosOfc/PhoneSploit-Pro#requirements) software are installed.
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone https://github.com/MznStudiosOfc/PhoneSploit-Pro.git
 ```
 ```
 cd PhoneSploit-Pro/
@@ -111,12 +111,12 @@ python3 phonesploitpro.py
 ```
 #### On Windows :
 
-Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requirements) software are installed.
+Make sure all the [required](https://github.com/MznStudiosOfc/PhoneSploit-Pro#requirements) software are installed.
 
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone https://github.com/MznStudiosOfc/PhoneSploit-Pro.git
 ```
 ```
 cd PhoneSploit-Pro/
@@ -338,13 +338,4 @@ pkg install nmap
 
 # Developer
 
-<a href="https://github.com/azeemidrisi/">
-  <img src="https://contrib.rocks/image?repo=azeemidrisi/phonesploit-pro" />
-</a>
-
-
-**Mohd Azeem** - [@AzeemIdrisi](https://github.com/azeemidrisi/)
- 
-
-# Support Me
-<a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+MZN STUDIOS OFC BY MAAZIN KING ❤‍🩹🔥
